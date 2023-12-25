@@ -1,10 +1,10 @@
 {
-  "WBUI2": {
+  "MAGA INFO": {
       "settings": {
           "OpenButton": 0,
           "HideIcon": false,
           "HideIconAfter": 60,
-          "IconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fapp.solidproof.io%2Fprojects%2Ftrumpmaga%3Faudit_id%3D683&psig=AOvVaw1WLDrD47Bm0N_ZHvfkCFCY&ust=1703481388108000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi5pe2op4MDFQAAAAAdAAAAABAD",
+          "IconURL": "https://i.imgur.com/OZ6xOjY.png",
           "DisableIconText": false,
           "IconPosition": 0,
           "IconTextColor": 0,
@@ -19,7 +19,7 @@
                   "buttontext": "Welcome",
                   "title1": "Welcome to MAGA EZ-Craft!",
                   "text1": "Please read the server rules and join Discord for news, updates, events and admin store!\n\n\nUse the in-game shop to obtain starter items\n\n\n",
-                  "imageurl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffineartamerica.com%2Ffeatured%2Fmake-xmas-great-again-trump-dinosaur-fh-design.html%3Fproduct%3Dtote-bag&psig=AOvVaw3EqomvfjDq8udS0LFwrTtK&ust=1703481786365000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODC5quqp4MDFQAAAAAdAAAAABAD"
+                  "imageurl": "https://i.imgur.com/mGt3cAF.png"
               }
           },
           {
@@ -28,7 +28,7 @@
                   "buttontext": "Rules",
                   "title1": "Rules",
                   "text1": "No Exploits\n\nNo Cheats\n\nNo Human/Bob Names\n\nNo Creating Lag\n\nJoin Discord for full and up to date rules!",
-                  "imageurl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Fpng%2F47SfS4Lt%2Fbanhammer-discord-computer-icons-png&psig=AOvVaw1iizW0C8XMrYOV9SOZLzej&ust=1703482049435000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPidmberp4MDFQAAAAAdAAAAABAR"
+                  "imageurl": "https://i.imgur.com/mGt3cAF.png"
               }
           }
       ],
