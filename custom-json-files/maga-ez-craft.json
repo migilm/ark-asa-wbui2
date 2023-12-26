@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0.65,0,1\">Welcome</>",
-          "title1": "Welcome to MAGA EZ-Craft!",
-          "text1": "<TextStyle.Green>Please Join the Discord to submit suggestions, ask questions, or challenge your enemies...</>\n\nLast Wipe: December 10th, 2023\nNext Wipe: TBD\n\n",
+          "title1": "<TextStyle.Green>Welcome to MAGA EZ-Craft!</>",
+          "text1": "Please Join the Discord to submit suggestions, ask questions, or challenge your enemies...\n\nLast Wipe: December 10th, 2023\nNext Wipe: TBD\n\n",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
