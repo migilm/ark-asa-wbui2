@@ -17,8 +17,8 @@
               "tab1": {
                   "layout": 1,
                   "buttontext": "Welcome",
-                  "title1": "Welcome to MAGA EZ-Craft!",
-                  "text1": "Please read the server rules and join Discord for news, updates, events and admin store/!\n\n\nUse the in/-game shop to obtain starter items",
+                  "title1": "Welcome to MAGA EZ Craft",
+                  "text1": "Please read the server rules and join Discord for news, updates, events and admin store\n\n\nUse the in game shop to obtain starter items",
                   "imageurl": "https://i.imgur.com/mGt3cAF.png"
               }
           },
@@ -27,7 +27,7 @@
                   "layout": 1,
                   "buttontext": "Rules",
                   "title1": "Rules",
-                  "text1": "No Exploits\n\nNo Cheats\n\nNo Human/Bob Names\n\nNo Creating Lag\n\nJoin Discord for full and up to date rules/!",
+                  "text1": "No Exploits\n\nNo Cheats\n\nNo Human or Bob Names\n\nNo Creating Lag\n\nJoin Discord for full and up to date rules",
                   "imageurl": "https://i.imgur.com/mGt3cAF.png"
               }
           }
