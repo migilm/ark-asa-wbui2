@@ -16,16 +16,16 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0.65,0,1\">Welcome</>",
-          "title1": "<TextStyle.Green>Welcome to MAGA EZ-Craft!</>",
-          "text1": "Please Join the Discord to submit suggestions, ask questions, or challenge your enemies...\n\nLast Wipe: December 10th, 2023\nNext Wipe: TBD\n\n",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+          "title1": "<TextStyle.Orange>Welcome to MAGA EZ-Craft!</>",
+          "text1": "<TextStyle.Yellow>Please Join the Discord to submit suggestions, ask questions, or challenge your enemies...</>\n\nLast Wipe: December 10th, 2023\nNext Wipe: TBD\n\n",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"0,1,0,1\">Rules</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
           "title1": "Rules",
           "text1": "<TextStyle.Red>Join Discord to view the full list of rules! For now, here are a few basics...</>\n\n<TextStyle.Orange>No Exploits</>\n\n<TextStyle.Orange>No Cheats</>\n\n<TextStyle.Orange>No Human or Bob names</>\n\n<TextStyle.Orange>No Unnecessary Spam</>\n\n<TextStyle.Orange>No Causing Lag</>",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -34,7 +34,7 @@
       {
         "tab3": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,1,1\">Donations</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Donations</>",
           "title1": "Donations",
           "text1": "Donations are greatly appreciated and help keep the servers online.\n\nAvailable donation methods include:\n\nCashApp\nVenmo\nPayPal\nZelle\nOr, Nitrado 'Boost' code\n\nTHIS SERVER'S BOOST CODE IS: ky4xr9gs\n\nPlease Join Discord to view the admin store and donation info. Open a ticket to let the admins know what you'd like.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -45,7 +45,7 @@
 
       {
         "link1": {
-          "text": "<RichColor Color=\"1,0,0,1\">Link To Discord</>",
+          "text": "<RichColor Color=\"0.5,0,0.5,1\">Link To Discord</>",
           "url": "https://discord.gg/uMSUxNktRG "
         }
       }
