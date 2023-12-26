@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+          "buttontext": "<RichColor Color=\"1,0.65,0,1\">Welcome</>",
           "title1": "Welcome to MAGA!",
           "text1": "Please Join the Discord for full rules, discussions, events, polls and admin shop!",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -25,7 +25,7 @@
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "Rules",
+          "buttontext": "<RichColor Color=\"0,1,0,1\">Rules</>",
           "title1": "Rules",
           "text1": "<TextStyle.Red>Join Discord to view the full list of rules!</>\n\nFor now, here are a few basics...\n\nNo Exploits\n\nNo Cheats\n\nNo Human or Bob names\n\nNo Unnecessary Spam\n\nNo Causing Lag",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -34,7 +34,7 @@
       {
         "tab3": {
           "layout": 1,
-          "buttontext": "Donations",
+          "buttontext": "<RichColor Color=\"1,0,1,1\">Donations</>",
           "title1": "Donations",
           "text1": "Donations are greatly appreciated and help keep the servers online.\n\nAvailable donation methods include:\n\nCashApp\nVenmo\nPayPal\nZelle\nOr, Nitrado 'Boost' code\n\nPlease Join Discord to view the admin store and donation info. Open a ticket to let the admins know what you'd like.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
