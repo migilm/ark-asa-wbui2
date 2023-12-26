@@ -51,7 +51,7 @@
       },
       {
         "link2": {
-          "text": "<RichColor Color=\"1,0,0,1\">File A Complaint!</>",
+          "text": "<RichColor Color=\"1,0,0,1\">File A Complaint</>",
           "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
       }
