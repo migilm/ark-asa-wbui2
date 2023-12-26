@@ -26,8 +26,8 @@
         "tab2": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
-          "title1": "Rules",
-          "text1": "<TextStyle.Red>Join Discord to view the full list of rules! For now, here are a few basics...</>\n\n<TextStyle.Orange>No Exploits</>\n\n<TextStyle.Orange>No Cheats</>\n\n<TextStyle.Orange>No Human or Bob names</>\n\n<TextStyle.Orange>No Unnecessary Spam</>\n\n<TextStyle.Orange>No Causing Lag</>",
+          "title1": "<TextStyle.Red>Rules</>",
+          "text1": "<TextStyle.Orange>Join Discord to view the full list of rules! For now, here are a few basics...</>\n\n<TextStyle.Yellow>No Exploits</>\n\n<TextStyle.Yellow>No Cheats</>\n\n<TextStyle.Yellow>No Human or Bob names</>\n\n<TextStyle.Yellow>No Unnecessary Spam</>\n\n<TextStyle.Yellow>No Causing Lag</>",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
