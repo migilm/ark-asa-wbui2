@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Rules",
           "title1": "Rules",
-          "text1": "Join Discord to view the full list of rules!\n\nFor now, here are a few basics...\n\nNo Exploits\n\nNo Cheats\n\nNo Human or Bob names\n\nNo Unnecessary Spam\n\nNo Causing Lag",
+          "text1": "<TextStyle.Red>Join Discord to view the full list of rules!</>\n\nFor now, here are a few basics...\n\nNo Exploits\n\nNo Cheats\n\nNo Human or Bob names\n\nNo Unnecessary Spam\n\nNo Causing Lag",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
