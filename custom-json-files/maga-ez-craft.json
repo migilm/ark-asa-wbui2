@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
           "title1": "Welcome to MAGA!",
           "text1": "Please Join the Discord for full rules, discussions, events, polls and admin shop!",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -25,7 +25,7 @@
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "4 Box layout",
+          "buttontext": "Rules",
           "title1": "Rules",
           "text1": "<TextStyle.Orange>No Exploits\n\nNo Cheats\n\nNo Human or Bob names\n\nNo Unnecessary Spam\n\nNo Causing Lag</>",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
